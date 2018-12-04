@@ -5,7 +5,7 @@ Lime Scooter Reversing
 
 I've been curious how these Scooters work, but to my suprise, I couldn't find any blogposts/repositories researching them, so I decided to create one myself. 
 
-All information in this file has collected from public online sources or real-life observations.
+All information in this file has been collected from public online sources or real-life observations.
 
 PRs are more than welcome.
 
