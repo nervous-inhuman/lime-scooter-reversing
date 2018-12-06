@@ -8,12 +8,6 @@ The purpose of this repository is to create a source/central point of truth for 
 
 Please collaborate and share any information you may have, all push requests are highly encouraged, let's build a database thats informative, helpful and most of all semi-legal.
 
-I've been curious how these Scooters work, but to my suprise, I couldn't find any blogposts/repositories researching them, so I decided to create one myself. 
-
-All information in this file has been collected from public online sources or real-life observations.
-
-PRs are more than welcome.
-
 --------
 
 ### Scooters
