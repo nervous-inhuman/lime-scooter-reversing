@@ -14,9 +14,6 @@ All information in this file has been collected from public online sources or re
 
 PRs are more than welcome.
 
-
-Original repository forked from - https://github.com/oneohtrix/lime-scooter-reversing
-
 --------
 
 ### Scooters
