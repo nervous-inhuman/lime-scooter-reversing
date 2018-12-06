@@ -64,4 +64,4 @@ BLE: TI CC2541(?)
 #### Misc
 
 - [Tech Stack](https://stackshare.io/lime/lime)
-- [Interesting Article on reversing](https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12163221) 
+- [Mathew Garrett - Reversing Article](https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12163221) 
