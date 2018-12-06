@@ -1,7 +1,12 @@
+
 Lime Scooter Reversing 
 =======================
 
 ## Description
+
+The purpose of this repository is to create a source/central point of truth for all things Lime. 
+
+Please collaborate and share any information you may have, all push requests are highly encouraged, let's build a database thats informative, helpful and most of all semi-legal.
 
 I've been curious how these Scooters work, but to my suprise, I couldn't find any blogposts/repositories researching them, so I decided to create one myself. 
 
@@ -9,13 +14,16 @@ All information in this file has been collected from public online sources or re
 
 PRs are more than welcome.
 
+
+Original repository forked from - https://github.com/oneohtrix/lime-scooter-reversing
+
 --------
 
 ### Scooters
 | Photo                                         | Manufacturer  | Model           | Manual     | Notes     |  
 |  --                                           | ---           | ---             | ---        | --        | 
 |  ![noidea](https://i.imgur.com/ZlH30AJ.jpg)   | ?             | ?               | N/A        | Without display, flat rear fender/brake; Gen 0 (?)
-|  ![okai](https://i.imgur.com/NzvMlJd.png)     | Okai          | ET Mini (?)     | N/A        | "Lime recalled all the scooters made by Okai in its fleet worldwide."; Gen 1 (?)  
+|  ![okai](https://i.imgur.com/NzvMlJd.png)![okai](https://i.imgur.com/n8F8iaf.jpg)![okai](https://i.imgur.com/PyMBqDM.jpg)![okai](https://i.imgur.com/nChRz0X.jpg)![okai](https://i.imgur.com/VdqvsBN.jpg)![okai](https://i.imgur.com/IYYR47g.jpg)![okai](https://i.imgur.com/GndnBEB.jpg)     | Okai          | ET Mini (?)     | N/A        | "Lime recalled all the scooters made by Okai in its fleet worldwide."; Gen 1 (?)  
 |  ![ES2](https://i.imgur.com/73wa8GJ.jpg)      | Segway        | Kickscooter ES2 | http://www.segway.com/media/2272/25612-00001_aa-kickscooter-user-manual-en.pdf            | Scooter has it's own BT; Gen 2 (?)
 |  ![SJ25](https://i.imgur.com/7Mno79i.png)     | Lime          | LimeS SJ2.5			| N/A        | Gen 2.5; Manufactured by `Dong Guan Honglin Industrial Co. Ltd`
 |  ![SJ3](https://i.imgur.com/ZOKGUAc.jpg)      | Lime          | LimeS SJ3(?)    | N/A        | [Linux, Not deployed yet (?); Gen 3](https://www.li.me/blog/lime-s-gen-3-electric-scooter-transform-micro-mobility)
@@ -56,3 +64,4 @@ BLE: TI CC2541(?)
 #### Misc
 
 - [Tech Stack](https://stackshare.io/lime/lime)
+- [Interesting Article on reversing](https://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=12163221) 
