@@ -21,6 +21,16 @@ Please collaborate and share any information you may have, all push requests are
 
 --------
 
+### Segway ES2 scooter sections
+Apparentely the scooter is divided in 3 main sections
+1) the handle bar, contains the bluetooth and the speedometer, also the main on/off button, without it, you won't be able to start the scooter, ES2 models from bird, only need to replace this part in order to work as "zombie scooters".
+
+2) the "main pole" this contains the battery, the control board, an extra battery and the "big green box", lime scooters are modified somehow and expose an external cable to control the main motor computer. so replacing the main control board will be a must
+
+3) the base of the scooter, contains led drivers and motor mount, no locking is performed here.
+
+Beware that because the scooters are protected they lock themselves into non working mode, a hard replacement of parts needs to be done.
+
 ### Trackers  
 Spotted in the wild:
 
