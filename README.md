@@ -1,6 +1,10 @@
 
 Lime Scooter Reversing 
 =======================
+[![irc badge](https://img.shields.io/badge/irc-freenode/%23lime-brightgreen.png)](
+http://webchat.freenode.net?channels=%23lime&uio=d4)
+
+
 
 ## Description
 
