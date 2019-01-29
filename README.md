@@ -10,7 +10,7 @@ http://webchat.freenode.net?channels=%23lime&uio=d4)
 
 The purpose of this repository is to create a source/central point of truth for all things Lime. 
 
-Please collaborate and share any information you may have, all push requests are highly encouraged, let's build a database thats informative, helpful and most of all semi-legal.
+Please collaborate and share any information you may have, all pull requests are highly encouraged, let's build a database thats informative, helpful and most of all semi-legal.
 
 --------
 
