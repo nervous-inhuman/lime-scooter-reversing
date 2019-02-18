@@ -47,6 +47,12 @@ GPS: uBlox G7020
 SIM: Twillio
 ```
 
+Misc:
+```
+Accelerometer: Bosch Sensortec BMI160
+```
+
+
 UART: 
 ```
 idVendor=05c6
