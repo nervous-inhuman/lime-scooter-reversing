@@ -37,19 +37,30 @@ Spotted in the wild:
 
 Seems to share same internals as the `LBCAT-(H|B)`, minus keypad daughterboard.
 
+
+MEIGLink SLM750
+It seems to be running [EC25 Linux](https://osmocom.org/projects/quectel-modems/wiki/EC25_Linux)
+```
+SoC/Modem: Qualcomm MDM9607
+BLE: TI CC2540
+SIM: Twillio
+```
+
+UART: 
+```
+idVendor=05c6
+idProduct=f601
+Product=Android
+Manufacturer=Android
+```
+
 Shows up as BLE device, with naming format `lime-XXXXXXXX` and OUI `18:62:E4 - Texas Instruments`.
-Might be `CC2540`?
 
 ![lbcat_uart](https://i.imgur.com/bKcM6Wa.png)
 ![lbcat](https://i.imgur.com/B6msfgl.png)
 ![lbcat_closeup](https://i.imgur.com/WkkuX6L.png)
 
 
-```
-LTE Modem: Qualcomm MDM9207(?)
-DRAM: Nanya xxxx
-BLE: TI CC2540(?)
-```
 
 ##### Docs 
 - [FCC ID](https://fccid.io/2APB2)
