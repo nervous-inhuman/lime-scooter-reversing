@@ -43,6 +43,7 @@ It seems to be running [EC25 Linux](https://osmocom.org/projects/quectel-modems/
 ```
 SoC/Modem: Qualcomm MDM9607
 BLE: TI CC2540
+GPS: uBlox G7020 
 SIM: Twillio
 ```
 
