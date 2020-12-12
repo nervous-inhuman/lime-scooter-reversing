@@ -17,11 +17,11 @@ Please collaborate and share any information you may have, all pull requests are
 ### Scooters
 | Photo                                         | Manufacturer  | Model           | Manual     | Notes     |  
 |  --                                           | ---           | ---             | ---        | --        | 
-|  ![noidea](https://i.imgur.com/ZlH30AJ.jpg)   | ?             | ?               | N/A        | Without display, flat rear fender/brake; No longer deployed(?); Gen 0 (?)
-|  ![okai](https://i.imgur.com/NzvMlJd.png)     | Okai          | Custom(?)       | N/A        | "Lime recalled all the scooters made by Okai in its fleet worldwide."; Flat read fender/brake; Gen 1 (?)  
+|  ![noidea](https://i.imgur.com/ZlH30AJ.jpg)   | ?             | ?               | N/A        | Without display, flat rear fender/brake; No longer deployed(?); Gen 1
+|  ![okai](https://i.imgur.com/NzvMlJd.png)     | Okai          | Custom(?)       | N/A        | "Lime recalled all the scooters made by Okai in its fleet worldwide."; Flat read fender/brake; Gen 2  
 |  ![ES2](https://i.imgur.com/73wa8GJ.jpg)      | Segway        | Kickscooter ES2 | http://www.segway.com/media/2272/25612-00001_aa-kickscooter-user-manual-en.pdf            | Scooter has it's own BT; Gen 2 (?)
 |  ![SJ25](https://i.imgur.com/7Mno79i.png) ![okai](https://i.imgur.com/n8F8iaf.jpg)![okai](https://i.imgur.com/PyMBqDM.jpg)![okai](https://i.imgur.com/nChRz0X.jpg)![okai](https://i.imgur.com/VdqvsBN.jpg)![okai](https://i.imgur.com/IYYR47g.jpg)![okai](https://i.imgur.com/GndnBEB.jpg)      | Lime          | LimeS SJ2.5			| N/A        | Gen 2.5; Manufactured by `Dong Guan Honglin Industrial Co. Ltd`
-|  ![SJ3](https://i.imgur.com/ZOKGUAc.jpg) ![SJ3](https://i.imgur.com/8qz5Shr.jpg)     | Lime          | LimeS SJ3(?)    | N/A        | [Linux, Not deployed yet (?); Gen 3](https://www.li.me/blog/lime-s-gen-3-electric-scooter-transform-micro-mobility)
+|  ![SJ3](https://i.imgur.com/ZOKGUAc.jpg) ![SJ3](https://i.imgur.com/8qz5Shr.jpg)     | Lime          | LimeS SJ3(?)    | N/A        | [Linux (?); Gen 3](https://www.li.me/blog/lime-s-gen-3-electric-scooter-transform-micro-mobility)
 
 --------
 
